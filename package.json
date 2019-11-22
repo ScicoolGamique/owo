@@ -8,7 +8,7 @@
     "start": "node bot.js"
   },
   "author": "OWO",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "discord.io": "github:woor/discord.io#gateway_v6",
     "discord.js": "^11.5.1"
