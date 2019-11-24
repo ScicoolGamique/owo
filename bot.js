@@ -33,7 +33,7 @@ bot.on('message', msg =>
 		}	
 		default: //default message
 		{
-			msg.reply('OwO');
+			//msg.reply('testing..');
 			break;
 		}
 	}
